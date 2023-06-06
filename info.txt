@@ -18,4 +18,6 @@ De tener instalado correctamente cypes, lo abrimos.
                                             node_modules\.bin\cypress open
  
  5.- Parar consola ==>                      ctrl + c
+
+  6. para intergracion continua:         npx cypress run --record --key b0339ac2-95e7-4a4a-a4dc-fa5b6b78af75
  
