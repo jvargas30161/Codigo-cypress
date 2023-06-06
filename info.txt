@@ -21,3 +21,4 @@ De tener instalado correctamente cypes, lo abrimos.
 
   6. para intergracion continua:         npx cypress run --record --key b0339ac2-95e7-4a4a-a4dc-fa5b6b78af75
  
+ 
