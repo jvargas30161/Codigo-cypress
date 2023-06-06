@@ -2,3 +2,6 @@ Prueba_no_subir.txt
 
 
 node_modules/
+*.mp4
+*.jpg
+*.png
